@@ -1,5 +1,5 @@
 Refactor for accessibility
-## Refactor an existing site to make it more accessible.
+## Refactor existing code.
 
 ## Mock-Up
 The image below details what the website looks like once deployed
@@ -10,3 +10,6 @@ The image below details what the website looks like once deployed
 - New HTML tags meeting semantic naming conventions
 - Labelled pictures
 - Altered CSS to maintain website appearance and function
+
+*Below is a link to the completed webpage:
+https://jacko2611.github.io/beautiful-horiseon/
